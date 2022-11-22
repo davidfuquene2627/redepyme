@@ -1,0 +1,215 @@
+.formulario-wasap{
+	display:none;
+}
+·#contenedor-wasap{
+	position: relative;
+}
+.logo{
+	position:absolute;
+	right: 0;
+	bottom:0;
+	cursor:pointer;
+}
+
+.logo img{
+
+	
+
+
+}
+
+#enlace-wasap{
+	display: none;
+}	
+
+@media only screen and (max-width: 600px) {
+#contenedor-wasap{
+	
+	
+	position:fixed;
+	bottom:0;
+	right: 0;
+	z-index: 10;
+	width: 100%;
+	display: table;
+	
+	padding: 2px;
+	background: 	none;
+	border-top-left-radius: 30px;
+
+
+	
+}
+.logo{
+	
+	background: #2ea3f2;
+	margin: auto;
+		width: 80px;
+	height: 80px;
+	border-radius:50%;
+
+	
+}
+.logo img{
+
+	width: 70px;
+	height: 70px;
+	
+	cursor:pointer;
+
+
+}	
+}
+@media only screen and (min-width: 600px) {
+#contenedor-wasap{
+	
+	
+	position:fixed;
+	bottom:0;
+	right: 0;
+	z-index: 10;
+	width: 60%;
+	display: table;
+	
+	padding: 2px;
+	background: 	none;
+	border-top-left-radius: 30px;
+
+
+	
+}
+.logo{
+	
+	background: #2ea3f2;
+	margin: auto;
+		width: 80px;
+	height: 80px;
+	border-radius:50%;
+
+	
+}
+.logo img{
+
+	width: 70px;
+	height: 70px;
+
+	cursor:pointer;
+
+
+}	
+}
+@media only screen and (min-width: 768px) {
+#contenedor-wasap{
+	
+	
+	position:fixed;
+	bottom:0;
+	right: 0;
+	z-index: 10;
+	width: 45%;
+	display: table;
+	
+	padding: 2px;
+	background: 	none;
+	border-top-left-radius: 30px;
+
+
+	
+}
+.logo{
+	
+	background: #2ea3f2;
+	margin: auto;
+		width: 80px;
+	height: 80px;
+	border-radius:50%;
+
+	
+}
+.logo img{
+
+	width: 70px;
+	height: 70px;
+	
+	cursor:pointer;
+
+
+}	
+}
+@media only screen and (min-width: 992px) {
+#contenedor-wasap{
+	
+	
+	position:fixed;
+	bottom:0;
+	right: 0;
+	z-index: 10;
+	width: 40%;
+	display: table;
+	
+	padding: 2px;
+	background: 	none;
+	border-top-left-radius: 30px;
+
+
+	
+}
+.logo{
+	text-align: right;
+	background: #2ea3f2;
+	margin: auto;
+		width: 80px;
+	height: 80px;
+	border-radius:50%;
+
+	
+}
+.logo img{
+
+	width: 70px;
+	height: 70px;
+	
+	cursor:pointer;
+
+
+}	
+}
+@media only screen and (min-width: 1200px) {
+#contenedor-wasap{
+	
+	
+	position:fixed;
+	bottom:0;
+	right: 0;
+	z-index: 10;
+	width: 25%;
+	display: table;
+	
+	padding: 2px;
+	background: 	none;
+	border-top-left-radius: 30px;
+
+
+	
+}
+.logo{
+	text-align: right;
+	background: #2ea3f2;
+	margin: auto;
+		width: 80px;
+	height: 80px;
+	border-radius:50%;
+
+	
+}
+.logo img{
+
+	width: 70px;
+	height: 70px;
+	
+	cursor:pointer;
+
+
+}	
+}
+

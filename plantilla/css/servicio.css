@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@300&display=swap');
+.contenedor-servicios{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	display:table;
+	
+
+}
+.img-servicio-contenedor{
+	
+	display:table;
+
+}
+.servicio-informacion-contenedor{
+	
+	display:table;
+	padding-top: 5px; padding-bottom: 5px;
+		background: #242c5c;
+		color:white;
+}
+
+.servicio-informacion-contenedor button{
+background:  #c3141c;
+border:none;
+font-family: 'Raleway', sans-serif;
+font-weight: bolder;
+font-style: oblique;
+}
+.servicio-informacion-contenedor button:hover{
+background:  #c3141c;
+}
+.img-servicio{
+	height: 400px;
+	width: 100%;
+}
+.servicio{
+	border:solid 1px black;
+
+}
+.nombre-servicio{
+font-size: 18px; 
+font-weight: bolder;
+position:relative; top:0px;
+}
+.parrafo-servicio{
+	font-size: 16px;
+	font-style: oblique;
+}
+.publicidad{
+	 -webkit-text-stroke-width: 0.5px;   
+            -webkit-text-stroke-color: black; 
+}
